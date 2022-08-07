@@ -48,6 +48,10 @@
     "@types/react": "^18.0.16",
     "@types/react-dom": "^18.0.6",
     "eslint-config-prettier": "^8.5.0",
+    "msw": "^0.44.2",
     "typescript": "^4.7.4"
+  },
+  "msw": {
+    "workerDirectory": "public"
   }
 }
